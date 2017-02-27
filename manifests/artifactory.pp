@@ -30,6 +30,7 @@
 #   mode  => '0644',
 # }
 #
+#
 # $dirname = 'gradle-1.0-milestone-4-20110723151213+0300'
 # $filename = "${dirname}-bin.zip"
 #
